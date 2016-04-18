@@ -27,3 +27,8 @@ void draw() {
 I am AJ.
 
 
+#### Pictures
+
+![alt text](2012-ducati-panigale-1199-preview 5.jpg)
+//(/path/to/img.jpg "Title")
+
