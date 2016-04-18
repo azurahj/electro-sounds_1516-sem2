@@ -1,29 +1,21 @@
 # Hello World
 
-## how are you
+## I am..
+
+Azurah Jan AKA A.J
+Year 2 (BA) Music Technology 
+Lasalle College of the Arts
 
 
-[a link](http://www.google.com)
+[Tumblr](https://www.tumblr.com/blog/ajmakenoise)
 
-  - a list item 
-  - another list item 
+  - Shows my Processing journey 
+  - Document every step and changes made to the codes.
+  - Also shows where I get my inspiration from.
+
+Special thanks to the Processing Community for drawing ideas from and also Andreas Schlegel for being an awesome lecturer to have guided me along the way. 
 
 
-Hello world this is some text just to show I can write some text.
 
-
-``` processing
-
-void setup() {
-}
-
-void draw() {
-}
-
-```
-
-### Who am I?
-
-I am AJ.
 
 
