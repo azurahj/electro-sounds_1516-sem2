@@ -2,6 +2,9 @@
 
 ## I am..
 
+ 
+![alt text](https://www.facebook.com/photo.php?fbid=10153410901942937&set=a.447403462936.224658.696832936&type=3&theater “AJ”)
+
   - Azurah Jan AKA A.J
   - Year 2 (BA) Music Technology 
   - Lasalle College of the Arts
