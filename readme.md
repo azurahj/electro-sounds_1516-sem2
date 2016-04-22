@@ -7,7 +7,7 @@
   - Lasalle College of the Arts
 
 
-[Tumblr](https://www.tumblr.com/blog/ajmakenoise)
+[Tumblr](http://ajmakenoise.tumblr.com/)
 
   - Shows my Processing journey 
   - Document every step and changes made to the codes.
